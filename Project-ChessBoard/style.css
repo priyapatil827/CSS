@@ -1,0 +1,111 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body
+{
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.main
+{
+    height: 800px;
+    width: 800px;
+    background-color: aqua;
+    margin: auto;
+}
+
+.one
+{
+    height: 100px;
+    width: 800px;
+    display: flex;
+}
+
+.chocolate
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(127, 22, 22);
+}
+
+.cream
+{
+    height: 100px;
+    width: 100px;
+    background-color:burlywood;
+}
+
+.two
+{
+    height: 100px;
+    width: 800px;
+    display: flex;
+}
+
+
+.three
+{
+    height: 100px;
+    width: 800px;
+    display: flex;
+}
+
+.four
+{
+    height: 100px;
+    width: 800px;
+    display: flex;
+}
+
+.five
+{
+    height: 100px;
+    width: 800px;
+    display: flex;
+}
+
+.six
+{
+    height: 100px;
+    width: 800px;
+    display: flex;
+}
+
+.seven
+{
+    height: 100px;
+    width: 800px;
+    display: flex;
+}
+
+.eight
+{
+    height: 100px;
+    width: 800px;
+    display: flex;
+}
+
+.black
+{
+    font-size: 80px;
+    line-height: 100px;
+    justify-content: center;
+    display: flex;
+    color: white;
+}
+
+.white
+{
+    font-size: 80px;
+    line-height: 100px;
+    justify-content: center;
+    display: flex;
+    color: black;
+}
